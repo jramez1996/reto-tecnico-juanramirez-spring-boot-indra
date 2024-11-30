@@ -1,0 +1,5 @@
+springdoc:
+  api-docs:
+    path: /api-docs  # Ruta para los documentos OpenAPI
+  swagger-ui:
+    path: /swagger-ui.html  # Ruta para la interfaz de Swagger UI
